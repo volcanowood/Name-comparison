@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>室内设计术语词典</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        #searchBox { 
+            padding: 10px; 
+            width: 300px; 
+            margin-bottom: 20px; 
+            border: 1px solid #ccc; 
+            border-radius: 5px; 
+        }
+        table { 
+            border-collapse: collapse; 
+            width: 100%; 
+        }
+        th, td { 
+            border: 1px solid #ddd; 
+            padding: 12px; 
+            text-align: left; 
+        }
+        th { 
+            background-color: #f5f5f5; 
+        }
+        tr:hover { 
+            background-color: #f0f0f0; 
+        }
+        .star { 
+            color: #ffbf00; 
+            font-weight: bold; 
+        }
+    </style>
+</head>
+<body>
+    <input type="text" id="searchBox" placeholder="搜索关键词（中/英）..." onkeyup="searchTable()">
+    <table id="termTable">
+        <thead>
+            <tr>
+                <th>解释</th>
+                <th>北美名称</th>
+                <th>欧洲名称</th>
+                <th>中文</th>
+                <th>常用度</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+            <!-- 数据通过JavaScript动态加载 -->
+        </tbody>
+    </table>
+
+    <script>
+        // 从TXT文件加载数据
+        async function loadTerms() {
+            const response = await fetch('design_terms.txt');
+            const data = await response.text();
+            const rows = data.split('\n').filter(row => row.trim() !== '');
+            const tbody = document.getElementById('tableBody');
+
+            rows.forEach(row => {
+                const [desc, naTerm, euTerm, cnTerm, stars] = row.split('|');
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td>${desc}</td>
+                    <td>${naTerm}</td>
+                    <td>${euTerm}</td>
+                    <td>${cnTerm}</td>
+                    <td class="star">${stars}</td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        // 搜索功能
+        function searchTable() {
+            const input = document.getElementById("searchBox");
+            const filter = input.value.toUpperCase();
+            const table = document.getElementById("termTable");
+            const tr = table.getElementsByTagName("tr");
+
+            for (let i = 1; i < tr.length; i++) {
+                const tds = tr[i].getElementsByTagName("td");
+                let match = false;
+                for (let j = 0; j < tds.length; j++) {
+                    const td = tds[j];
+                    if (td) {
+                        const txtValue = td.textContent || td.innerText;
+                        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                            match = true;
+                            break;
+                        }
+                    }
+                }
+                tr[i].style.display = match ? "" : "none";
+            }
+        }
+
+        // 页面加载时初始化
+        window.onload = loadTerms;
+    </script>
+</body>
+</html>
