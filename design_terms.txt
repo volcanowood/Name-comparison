@@ -44,3 +44,121 @@
 玻璃类型（钢化玻璃）|Tempered glass|Tempered glass|钢化玻璃|****
 地面防滑处理|Non-slip coating|Non-slip coating|防滑涂层|***
 墙面防潮层|Damp-proof course|Damp-proof course|防潮层|***
+用于切割木材的电动工具|Circular saw|Circular saw|圆锯|****
+固定板材的临时支撑架|Sawhorse|Trestle|锯木架|***
+墙面开槽工具|Wall chaser|Wall chaser|开槽机|***
+测量垂直度的工具|Spirit level|Spirit level|水平仪|*****
+金属框架焊接工具|Welding machine|Welding machine|电焊机|***
+混凝土表面打磨工具|Concrete grinder|Concrete grinder|混凝土打磨机|***
+安装螺丝的电动工具|Power drill|Power drill|电钻|*****
+切割金属的便携工具|Angle grinder|Angle grinder|角磨机|****
+固定石膏板的钉子|Drywall nail|Plasterboard nail|石膏板钉|***
+墙面开孔工具|Hole saw|Hole saw|开孔器|****
+客厅中央的储物家具|Coffee table|Coffee table|茶几|*****
+卧室存放衣物的家具|Wardrobe|Wardrobe|衣柜|*****
+悬挂在墙面的装饰架|Floating shelf|Floating shelf|壁挂架|****
+可伸缩的餐桌类型|Extendable table|Extending table|伸缩餐桌|***
+沙发旁的辅助小桌|Side table|Side table|边几|****
+装饰性墙面凹凸线条|Wainscoting|Panelling|墙裙|***
+悬挂艺术品的钩子|Picture hook|Picture hook|挂画钩|***
+门廊入口的座椅|Bench|Bench|长凳|***
+厨房悬挂餐具的架子|Pot rack|Pot rack|锅架|***
+浴室放置毛巾的架子|Towel rail|Towel rail|毛巾架|*****
+控制室内温度的智能设备|Thermostat|Thermostat|温控器|****
+嵌入天花板的空调出风口|Diffuser|Diffuser|空调出风口|***
+厨房烟雾探测装置|Smoke detector|Smoke detector|烟雾报警器|****
+无线灯光控制系统|Smart lighting|Smart lighting|智能灯光|****
+隐藏式音响设备|In-wall speaker|In-wall speaker|嵌入式音响|***
+电动窗帘轨道|Motorized curtain|Motorized curtain|电动窗帘|***
+卫生间加热干燥设备|Heated towel rail|Heated towel rail|电热毛巾架|***
+厨房食物残渣处理器|Garbage disposal|Waste disposal|垃圾处理器|***
+仿木纹的塑料贴面|Laminate|Laminate|层压板|****
+石材表面抛光工艺|Polished finish|Polished finish|镜面抛光|***
+金属防锈涂层|Galvanization|Galvanization|镀锌处理|***
+木材防腐化学处理|Pressure-treated wood|Treated timber|防腐木|****
+瓷砖边缘的装饰线条|Tile trim|Tile trim|瓷砖收边条|***
+墙面粗糙质感涂料|Textured paint|Textured paint|质感涂料|***
+玻璃表面磨砂效果|Sandblasted glass|Sandblasted glass|喷砂玻璃|***
+开放式厨房与客厅的过渡结构|Kitchen island|Kitchen island|厨房中岛|*****
+卧室内的独立衣帽间|Walk-in closet|Walk-in wardrobe|步入式衣帽间|****
+连接室内外的半开放空间|Patio|Terrace|露台|****
+屋顶斜面下的阁楼空间|Attic|Loft|阁楼|***
+地下室改造的居住空间|Basement apartment|Basement flat|地下室公寓|***
+阳台的玻璃封闭设计|Sunroom|Conservatory|阳光房|***
+商业空间的展示墙面|Feature wall|Feature wall|主题墙|****
+楼梯下方的储物空间|Under-stair storage|Under-stair storage|楼梯下储物|***
+工业风格暴露的管线设计|Exposed conduit|Exposed conduit|明管装饰|***
+北欧风格的极简家具|Scandinavian furniture|Scandinavian furniture|斯堪的纳维亚家具|****
+复古做旧的墙面效果|Distressed finish|Distressed finish|仿旧处理|***
+地中海风格的弧形门洞|Arched doorway|Arched doorway|拱形门洞|***
+日式榻榻米地台|Tatami platform|Tatami platform|榻榻米平台|***
+东南亚风格的编织装饰|Rattan decor|Rattan decor|藤编装饰|***
+现代主义的几何灯具|Geometric light|Geometric light|几何灯具|****
+悬挂式室内植物容器|Hanging planter|Hanging planter|悬挂花盆|****
+墙面垂直绿化系统|Vertical garden|Vertical garden|垂直花园|***
+仿真植物装饰材料|Artificial greenery|Artificial greenery|仿真绿植|***
+透光不透影的植物隔断|Privacy screen plants|Privacy screen plants|绿植屏风|***
+多肉植物组合盆栽|Succulent arrangement|Succulent arrangement|多肉盆栽|****
+苔藓墙面装饰|Moss wall|Moss wall|苔藓墙|***
+水景装饰小型喷泉|Tabletop fountain|Tabletop fountain|桌面喷泉|***
+承重墙上的加固结构|Load-bearing beam|Load-bearing beam|承重梁|*****
+非承重的装饰性假柱|Decorative column|Decorative column|装饰柱|***
+天窗的开启机构|Skylight vent|Skylight vent|天窗通风器|***
+楼梯踏步的防滑条|Stair nosing|Stair nosing|踏步边条|****
+墙角的保护金属条|Corner guard|Corner guard|护角条|***
+隐藏空调管道的吊顶|Bulkhead|Bulkhead|管道吊顶|****
+玻璃幕墙的支撑框架|Curtain wall|Curtain wall|幕墙框架|***
+墙面涂料类型（哑光质感）|Matte paint|Matt paint|哑光漆|****
+墙面涂料类型（丝光效果）|Eggshell paint|Eggshell paint|蛋壳光漆|***
+天然粘土墙面材料|Clay plaster|Clay plaster|粘土灰泥|***
+吸音隔音多孔板材|Acoustic panel|Acoustic panel|吸音板|****
+防潮防霉的墙纸基材|Vinyl wallpaper|Vinyl wallpaper|PVC墙纸|****
+可擦洗的儿童房涂料|Washable paint|Washable paint|可擦洗涂料|****
+定制家具的隐藏式铰链|Concealed hinge|Concealed hinge|隐藏铰链|****
+抽屉滑轨类型（缓冲静音）|Soft-close slide|Soft-close runner|缓冲滑轨|*****
+柜门反弹器装置|Push latch|Push latch|反弹器|****
+厨房下拉式储物架|Pull-down shelf|Pull-down shelf|下拉架|***
+浴室防雾镜面|Anti-fog mirror|Anti-fog mirror|防雾镜|****
+隐形门无框设计|Flush door|Flush door|隐形门|****
+楼梯扶手支撑柱|Newel post|Newel post|扶手立柱|***
+门窗密封胶条|Weatherstripping|Draught excluder|密封条|*****
+地面导水槽设计|Linear drain|Linear drain|线性地漏|****
+墙面预埋接线盒|Electrical box|Back box|暗盒|*****
+弱电网络接口面板|Ethernet port|Ethernet port|网线接口|****
+中央吸尘器管道接口|Central vacuum port|Central vacuum port|吸尘口|***
+智能家居中控屏幕|Control panel|Control panel|控制面板|****
+可旋转电视支架|Swivel TV mount|Swivel TV bracket|旋转支架|****
+墙面艺术涂料（仿石材）|Venetian plaster|Venetian plaster|威尼斯石膏|***
+金属包边收口条|Metal trim|Metal trim|金属收边|****
+玻璃移门轨道系统|Sliding door track|Sliding door track|移门轨道|****
+窗帘遮光衬布|Blackout lining|Blackout lining|遮光布|*****
+地毯防滑底垫|Carpet underlay|Carpet underlay|地毯垫|****
+阳台防腐木地板|Decking|Decking|防腐木地板|****
+石英石台面接缝处理|Quartz seam|Quartz seam|石英石接缝|***
+不锈钢拉丝表面|Brushed stainless|Brushed stainless|拉丝不锈钢|****
+黄铜氧化仿古处理|Antique brass|Antique brass|做旧铜|****
+吊顶检修口盖板|Access panel|Access panel|检修口|****
+地暖分水器阀门|Manifold|Manifold|分集水器|****
+墙面艺术挂件轨道|Picture rail|Picture rail|挂画轨|***
+天花板石膏装饰线|Crown molding|Coving|天花线|****
+门窗过梁承重结构|Lintel|Lintel|过梁|****
+楼梯踏步高度规范|Riser height|Riser height|踏步高度|*****
+无障碍斜坡坡度|Access ramp|Access ramp|无障碍坡道|****
+钢结构防火涂料|Fireproof coating|Fireproof coating|防火涂料|****
+玻璃幕墙结构胶|Silicone sealant|Silicone sealant|硅酮胶|*****
+混凝土裂缝修补剂|Concrete repair|Concrete repair|补缝剂|***
+瓷砖背胶粘合剂|Tile adhesive|Tile adhesive|瓷砖胶|*****
+木地板伸缩缝预留|Expansion gap|Expansion gap|伸缩缝|*****
+防水卷材搭接处理|Flashing|Flashing|防水卷材搭接|****
+石膏板接缝绷带|Joint tape|Joint tape|接缝带|****
+墙面阳角保护条|Corner bead|Corner bead|阳角条|****
+地漏防臭水封设计|Trap|Trap|存水弯|*****
+卫生间同层排水|Screed drainage|Screed drainage|同层排水|****
+中央空调风管材质|Ductwork|Ductwork|风管|****
+新风系统过滤网|Air filter|Air filter|滤网|*****
+暖气分室温控阀|Thermostatic valve|Thermostatic valve|温控阀|****
+智能感应水龙头|Sensor faucet|Sensor tap|感应水龙头|*****
+浴室恒温混水阀|Thermostatic mixer|Thermostatic mixer|恒温阀|****
+隐形地漏盖板|Linear drain grate|Linear drain grate|隐形地漏|****
+电梯井道隔音层|Elevator shaft insulation|Elevator shaft insulation|电梯井隔音|***
+钢结构防火包覆|Fireproof cladding|Fireproof cladding|防火包覆|****
