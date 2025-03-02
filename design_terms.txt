@@ -162,3 +162,37 @@
 隐形地漏盖板|Linear drain grate|Linear drain grate|隐形地漏|****
 电梯井道隔音层|Elevator shaft insulation|Elevator shaft insulation|电梯井隔音|***
 钢结构防火包覆|Fireproof cladding|Fireproof cladding|防火包覆|****
+轻钢龙骨石膏板隔墙系统|Drywall partition|Plasterboard partition|轻钢龙骨石膏板隔墙|*****
+防火性能石膏板|Fire-rated drywall|Fire-resistant plasterboard|防火石膏板|****
+防水石膏板（用于潮湿区域）|Green board|Moisture-resistant plasterboard|防水石膏板|****
+木工用胶合板（多层薄木压制）|Plywood|Plywood|胶合板|*****
+中密度纤维板（MDF）|MDF|MDF|中纤板|****
+刨花板（颗粒板）|Particle board|Chipboard|刨花板|****
+细木工板（大芯板）|Blockboard|Blockboard|大芯板|****
+欧松板（定向结构刨花板）|OSB|OSB|欧松板|****
+水泥纤维板（外墙/浴室用）|Cement board|Cement board|水泥板|****
+硅酸钙板（防火吊顶材料）|Calcium silicate board|Calcium silicate board|硅酸钙板|****
+普通单芯铜线（硬线）|Solid wire|Solid core wire|单芯硬线|*****
+多股绞合铜线（软线）|Stranded wire|Stranded wire|多芯软线|*****
+护套线（带绝缘外层）|Sheathed cable|Sheathed cable|护套线|*****
+接地线（黄绿色）|Ground wire|Earth wire|接地线|*****
+双绞线（网络信号传输）|Twisted pair cable|Twisted pair cable|网线|*****
+阻燃电线（低烟无卤）|FR-LSZH cable|FR-LSZH cable|阻燃电线|*****
+电缆规格（截面积平方毫米）|AWG (e.g., 12AWG)|mm² (e.g., 2.5mm²)|平方毫米（如2.5平方）|*****
+穿线用波纹软管|Flexible conduit|Flexible conduit|波纹管|****
+方钢管（结构支撑用）|Square tube|Square hollow section|方管|****
+角钢（L型连接件）|Angle iron|Angle iron|角钢|****
+轻钢龙骨（吊顶/隔墙）|Metal stud|Metal stud|轻钢龙骨|*****
+铝合金型材（门窗框架）|Aluminum profile|Aluminum profile|铝合金型材|****
+不锈钢螺丝（防锈处理）|Stainless steel screw|Stainless steel screw|不锈钢螺丝|*****
+自攻螺丝（无需预钻孔）|Self-tapping screw|Self-tapping screw|自攻螺丝|*****
+膨胀螺栓（墙体固定用）|Anchor bolt|Anchor bolt|膨胀螺栓|****
+镀锌铁皮（防水防锈）|Galvanized sheet metal|Galvanized sheet metal|镀锌铁皮|****
+白乳胶（木材粘接）|PVA glue|PVA adhesive|白乳胶|*****
+结构胶（高强粘接）|Construction adhesive|Construction adhesive|结构胶|*****
+玻璃胶（密封防水）|Silicone sealant|Silicone sealant|玻璃胶|*****
+发泡胶（填充缝隙）|Spray foam|Expanding foam|发泡剂|****
+石膏粉（快速修补用）|Joint compound|Filler powder|石膏粉|*****
+瓷砖胶（增强粘结力）|Thinset mortar|Tile adhesive|瓷砖胶|*****
+木工钉（气枪专用）|Brad nail|Panel pin|气钉|*****
+水泥（普通硅酸盐）|Portland cement|Portland cement|水泥|*****
