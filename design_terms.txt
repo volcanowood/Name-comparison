@@ -1,0 +1,46 @@
+控制水流的手动装置|Faucet|Tap|水龙头|*****
+墙面电源接口|Outlet|Socket|插座|*****
+嵌入式天花板灯具|Recessed light|Downlight|筒灯/射灯|****
+墙面或地面装饰瓷砖|Tile|Tile|瓷砖|*****
+实木铺设的地面材料|Hardwood flooring|Wooden flooring|木地板|*****
+连接水管的金属接口|Pipe fitting|Pipe connector|水管接口|***
+隐藏灯带的装饰结构|Cove lighting|Pelmet lighting|灯槽|***
+墙面与地板间的装饰条|Baseboard|Skirting board|踢脚线|****
+门框底部横木|Threshold|Sill|门槛石|***
+厨房储物柜体|Cabinet|Cupboard|橱柜|*****
+可调节角度的聚光灯|Track light|Spot light|轨道射灯|***
+悬挂式装饰性灯具|Pendant light|Pendant light|吊灯|****
+地面排水口|Floor drain|Gully|地漏|***
+墙面开关面板|Switch plate|Switch plate|开关面板|****
+防水墙面涂料|Waterproof paint|Waterproof paint|防水涂料|***
+墙面装饰线条|Molding|Coving|装饰线条|***
+门扇与门框的连接件|Hinge|Hinge|铰链|****
+门或抽屉的拉手|Handle|Handle|拉手|****
+固定玻璃的金属条|Glazing bead|Glazing bead|玻璃压条|***
+墙面保温材料|Insulation|Insulation|保温棉|****
+吊顶龙骨框架|Ceiling grid|Ceiling grid|吊顶龙骨|***
+地面找平材料|Self-leveling compound|Screed|自流平|***
+墙面抹灰层|Plaster|Plaster|抹灰层|***
+瓷砖填缝剂|Grout|Grout|美缝剂|****
+卫生间防水层|Waterproof membrane|Tanking|防水层|****
+电路断路器|Circuit breaker|Circuit breaker|断路器|****
+电线穿线管|Conduit|Conduit|线管|****
+灯具开关|Light switch|Light switch|电灯开关|*****
+电源插座类型（双孔）|Duplex outlet|Double socket|双孔插座|*****
+电源插座类型（三孔）|GFCI outlet|RCD socket|三孔插座|*****
+中央空调出风口|Air vent|Air vent|空调风口|***
+暖气片|Radiator|Radiator|暖气片|***
+厨房水槽|Kitchen sink|Kitchen sink|厨房水槽|*****
+浴室洗手台|Bathroom vanity|Bathroom vanity|浴室柜|****
+淋浴隔断|Shower enclosure|Shower enclosure|淋浴房|****
+浴室镜柜|Medicine cabinet|Medicine cabinet|镜柜|***
+窗帘轨道|Curtain rod|Curtain track|窗帘杆|****
+窗帘挂钩|Curtain hook|Curtain hook|窗帘钩|**
+门锁类型（执手锁）|Door handle lock|Door handle lock|执手锁|****
+门锁类型（插芯锁）|Mortise lock|Mortise lock|插芯锁|***
+窗户类型（推拉窗）|Sliding window|Sliding window|推拉窗|****
+窗户类型（平开窗）|Casement window|Casement window|平开窗|****
+玻璃类型（磨砂玻璃）|Frosted glass|Frosted glass|磨砂玻璃|***
+玻璃类型（钢化玻璃）|Tempered glass|Tempered glass|钢化玻璃|****
+地面防滑处理|Non-slip coating|Non-slip coating|防滑涂层|***
+墙面防潮层|Damp-proof course|Damp-proof course|防潮层|***
